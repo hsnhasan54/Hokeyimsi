@@ -1,0 +1,11 @@
+C:\Users\hasan\source\repos\Mobil Proglama\hokeyk\hokeyk\bin\Debug\hokeyk.exe.config
+C:\Users\hasan\source\repos\Mobil Proglama\hokeyk\hokeyk\bin\Debug\hokeyk.exe
+C:\Users\hasan\source\repos\Mobil Proglama\hokeyk\hokeyk\bin\Debug\hokeyk.pdb
+C:\Users\hasan\source\repos\Mobil Proglama\hokeyk\hokeyk\obj\Debug\hokeyk.csproj.AssemblyReference.cache
+C:\Users\hasan\source\repos\Mobil Proglama\hokeyk\hokeyk\obj\Debug\hokeyk.csproj.SuggestedBindingRedirects.cache
+C:\Users\hasan\source\repos\Mobil Proglama\hokeyk\hokeyk\obj\Debug\hokeyk.Form1.resources
+C:\Users\hasan\source\repos\Mobil Proglama\hokeyk\hokeyk\obj\Debug\hokeyk.Properties.Resources.resources
+C:\Users\hasan\source\repos\Mobil Proglama\hokeyk\hokeyk\obj\Debug\hokeyk.csproj.GenerateResource.cache
+C:\Users\hasan\source\repos\Mobil Proglama\hokeyk\hokeyk\obj\Debug\hokeyk.csproj.CoreCompileInputs.cache
+C:\Users\hasan\source\repos\Mobil Proglama\hokeyk\hokeyk\obj\Debug\hokeyk.exe
+C:\Users\hasan\source\repos\Mobil Proglama\hokeyk\hokeyk\obj\Debug\hokeyk.pdb
